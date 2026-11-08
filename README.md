@@ -1,1 +1,1 @@
-# comidh.GitHub.io
+# comidh.github.io
